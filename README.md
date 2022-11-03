@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @davidhughhenrymack
 - 🏔️ I adventure in the mountains
+- 👨‍🎓 YC Founder, Cambridge Computer Scientist, Oxford Math-CompSci
 - 👀 I love creating things - I moonlight as full-stack engineer, product manager and product designer
 
 <!---
